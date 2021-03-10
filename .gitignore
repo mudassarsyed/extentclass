@@ -1,0 +1,8 @@
+*.png
+target/
+local.log
+.idea
+*.iml
+.gradle
+build/
+.DS_Store
